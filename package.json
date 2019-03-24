@@ -1,0 +1,26 @@
+{
+  "name": "node-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run",
+    "scss": "node-sass --watch style/main.scss -o style/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faturputro/global.git"
+  },
+  "keywords": [
+    "magnolia4725"
+  ],
+  "author": "faturputro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faturputro/global/issues"
+  },
+  "homepage": "https://github.com/faturputro/global#readme",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
